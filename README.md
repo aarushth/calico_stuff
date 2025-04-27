@@ -1,1 +1,1 @@
-calico, put each problem in separate folders for organization
+calico, put each problem in separate files for organization
